@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/tmp/xml">
+        <file>task_groceries.xml</file>
+        <file>task_week.xml</file>
+    </qresource>
+    <qresource prefix="/tmp/icon">
+        <file>grocery_icon.png</file>
+        <file>blank_icon.png</file>
+        <file>week_icon.png</file>
+    </qresource>
+</RCC>

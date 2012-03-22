@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<listset>
+ <list>
+  <list_title>Monday</list_title>
+  <task task_type="main">
+   <task_title>task 1</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+ <list>
+  <list_title>Tuesday</list_title>
+  <task task_type="main">
+   <task_title>task 1</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-20</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+ <list>
+  <list_title>Wednesday</list_title>
+  <task task_type="main">
+   <task_title>task 1</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-21</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+ <list>
+  <list_title>Thursday</list_title>
+  <task task_type="main">
+   <task_title>task 1</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-22</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+ <list>
+  <list_title>Friday</list_title>
+  <task task_type="main">
+   <task_title>task 1</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-23</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+ <list>
+  <list_title>Saturday</list_title>
+  <task task_type="main">
+   <task_title>task 1</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-24</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+ <list>
+  <list_title>Sunday</list_title>
+  <task task_type="main">
+   <task_title>task 1</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-25</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+</listset>

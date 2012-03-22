@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<listset>
+ <list>
+  <list_title>Groceries</list_title>
+  <task task_type="main">
+   <task_title>Breads</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+  <task task_type="main">
+   <task_title>Meats</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+  <task task_type="main">
+   <task_title>Cheeses</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+  <task task_type="main">
+   <task_title>Snacks</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+  <task task_type="main">
+   <task_title>Drinks</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+  <task task_type="main">
+   <task_title>Personal Hygiene</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+  <task task_type="main">
+   <task_title>Cleaning Products</task_title>
+   <task_check>unchecked</task_check>
+   <task_note></task_note>
+   <task_display>false</task_display>
+   <task_date>2012-03-19</task_date>
+   <task_font>MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0</task_font>
+  </task>
+ </list>
+</listset>
